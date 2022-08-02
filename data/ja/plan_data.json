@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "お得な特典付きプラン",
-    "roomBill": 7000,
+    "roomBill": 6000,
     "minHeadCount": 1,
     "maxHeadCount": 9,
     "minTerm": 1,
